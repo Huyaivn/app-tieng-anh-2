@@ -1,0 +1,142 @@
+[
+  {
+    "english": "Apple",
+    "vietnamese": "Táo",
+    "pronunciation": "Áp-pồ",
+    "image": "topics/fruits/images/apple.jpg",
+    "imagePrompt": "AI Prompt: A fresh red apple with green leaf on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Banana",
+    "vietnamese": "Chuối",
+    "pronunciation": "Bơ-na-na",
+    "image": "topics/fruits/images/banana.jpg",
+    "imagePrompt": "AI Prompt: A ripe yellow banana on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Orange",
+    "vietnamese": "Cam",
+    "pronunciation": "Ó-rinh",
+    "image": "topics/fruits/images/orange.jpg",
+    "imagePrompt": "AI Prompt: A fresh orange fruit on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Mango",
+    "vietnamese": "Xoài",
+    "pronunciation": "Mằng-gô",
+    "image": "topics/fruits/images/mango.jpg",
+    "imagePrompt": "AI Prompt: A ripe yellow mango fruit on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Grape",
+    "vietnamese": "Nho",
+    "pronunciation": "Grếp",
+    "image": "topics/fruits/images/grape.jpg",
+    "imagePrompt": "AI Prompt: A bunch of purple grapes on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Strawberry",
+    "vietnamese": "Dâu tây",
+    "pronunciation": "Xtrọ-bơ-ri",
+    "image": "topics/fruits/images/strawberry.jpg",
+    "imagePrompt": "AI Prompt: A fresh red strawberry with green leaves on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Watermelon",
+    "vietnamese": "Dưa hấu",
+    "pronunciation": "Uó-tơ-me-lơn",
+    "image": "topics/fruits/images/watermelon.jpg",
+    "imagePrompt": "AI Prompt: A sliced watermelon showing red flesh and black seeds on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Pineapple",
+    "vietnamese": "Dứa/Thơm",
+    "pronunciation": "Pai-náp-pồ",
+    "image": "topics/fruits/images/pineapple.jpg",
+    "imagePrompt": "AI Prompt: A whole pineapple with green crown on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Peach",
+    "vietnamese": "Đào",
+    "pronunciation": "Pích",
+    "image": "topics/fruits/images/peach.jpg",
+    "imagePrompt": "AI Prompt: A ripe peach fruit with fuzzy skin on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Cherry",
+    "vietnamese": "Anh đào",
+    "pronunciation": "Chớ-ri",
+    "image": "topics/fruits/images/cherry.jpg",
+    "imagePrompt": "AI Prompt: Two red cherries with stems on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Lemon",
+    "vietnamese": "Chanh",
+    "pronunciation": "Lé-mơn",
+    "image": "topics/fruits/images/lemon.jpg",
+    "imagePrompt": "AI Prompt: A fresh yellow lemon on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Coconut",
+    "vietnamese": "Dừa",
+    "pronunciation": "Cô-cơ-nớt",
+    "image": "topics/fruits/images/coconut.jpg",
+    "imagePrompt": "AI Prompt: A whole brown coconut with white flesh on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Kiwi",
+    "vietnamese": "Kiwi",
+    "pronunciation": "Ki-uỳ",
+    "image": "topics/fruits/images/kiwi.jpg",
+    "imagePrompt": "AI Prompt: A fresh kiwi fruit sliced in half showing green flesh and black seeds on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Papaya",
+    "vietnamese": "Đu đủ",
+    "pronunciation": "Pơ-pai-a",
+    "image": "topics/fruits/images/papaya.jpg",
+    "imagePrompt": "AI Prompt: A ripe papaya cut in half showing orange flesh and black seeds on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Dragon Fruit",
+    "vietnamese": "Thanh long",
+    "pronunciation": "Drà-gơn Frút",
+    "image": "topics/fruits/images/dragonfruit.jpg",
+    "imagePrompt": "AI Prompt: A pink dragon fruit cut in half showing white flesh with black seeds on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Pear",
+    "vietnamese": "Lê",
+    "pronunciation": "Péo",
+    "image": "topics/fruits/images/pear.jpg",
+    "imagePrompt": "AI Prompt: A fresh green pear on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Plum",
+    "vietnamese": "Mận",
+    "pronunciation": "Plầm",
+    "image": "topics/fruits/images/plum.jpg",
+    "imagePrompt": "AI Prompt: Fresh purple plums on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Avocado",
+    "vietnamese": "Bơ",
+    "pronunciation": "A-vơ-ca-đô",
+    "image": "topics/fruits/images/avocado.jpg",
+    "imagePrompt": "AI Prompt: A fresh avocado cut in half showing green flesh and seed on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Lychee",
+    "vietnamese": "Vải",
+    "pronunciation": "Lai-chì",
+    "image": "topics/fruits/images/lychee.jpg",
+    "imagePrompt": "AI Prompt: Fresh lychee fruits with red bumpy skin, one peeled showing white flesh on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Pomegranate",
+    "vietnamese": "Lưu",
+    "pronunciation": "Pó-mơ-grà-nịt",
+    "image": "topics/fruits/images/pomegranate.jpg",
+    "imagePrompt": "AI Prompt: A fresh pomegranate cut open showing red seeds on white background, photorealistic, studio lighting, high quality, 4k"
+  }
+]
