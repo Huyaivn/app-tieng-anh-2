@@ -413,11 +413,6 @@
         font-size: 13px;
     }
 
-    .btn-icon span,
-    .btn-primary span {
-        display: none;
-    }
-
     body {
         padding: 10px;
     }
@@ -470,6 +465,7 @@
 
 @media (max-width: 480px) {
     .buttons-container {
+        width: 100%;
         padding: 8px;
         gap: 8px;
     }
