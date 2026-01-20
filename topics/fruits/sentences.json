@@ -1,0 +1,72 @@
+[
+  {
+    "english": "I eat an apple every day.",
+    "vietnamese": "Tôi ăn một quả táo mỗi ngày.",
+    "pronunciation": "Ai ít ăn áp-pồ év-ri đây",
+    "image": "topics/fruits/images/sentence-apple.webp",
+    "imagePrompt": "AI Prompt: A person eating a fresh red apple at breakfast table, morning sunlight, healthy lifestyle, photorealistic, 4k"
+  },
+  {
+    "english": "She loves fresh strawberries.",
+    "vietnamese": "Cô ấy yêu thích dâu tây tươi.",
+    "pronunciation": "Sì lớp frếch xtrọ-bơ-riz",
+    "image": "topics/fruits/images/sentence-strawberry.webp",
+    "imagePrompt": "AI Prompt: A happy woman holding a bowl of fresh strawberries, smiling, natural lighting, photorealistic, 4k"
+  },
+  {
+    "english": "The orange is very sweet.",
+    "vietnamese": "Quả cam này rất ngọt.",
+    "pronunciation": "Đờ ó-rinh ít ve-ri suít",
+    "image": "topics/fruits/images/sentence-orange.webp",
+    "imagePrompt": "AI Prompt: A juicy sliced orange on a plate, showing sweet fresh juice, close-up, photorealistic, 4k"
+  },
+  {
+    "english": "We buy bananas at the market.",
+    "vietnamese": "Chúng tôi mua chuối ở chợ.",
+    "pronunciation": "Uị bai bơ-na-naz ặt đờ mác-két",
+    "image": "topics/fruits/images/sentence-banana.webp",
+    "imagePrompt": "AI Prompt: People shopping for bananas at a colorful fruit market, vibrant display of yellow bananas, photorealistic, 4k"
+  },
+  {
+    "english": "This watermelon is so big.",
+    "vietnamese": "Quả dưa hấu này to quá.",
+    "pronunciation": "Đít uó-tơ-me-lơn ít sâu bích",
+    "image": "topics/fruits/images/sentence-watermelon.webp",
+    "imagePrompt": "AI Prompt: A large whole watermelon next to sliced pieces showing red flesh, size comparison, photorealistic, 4k"
+  },
+  {
+    "english": "Grapes are my favorite fruit.",
+    "vietnamese": "Nho là trái cây yêu thích của tôi.",
+    "pronunciation": "Grếps a mai fây-vơ-rít frút",
+    "image": "topics/fruits/images/sentence-grape.webp",
+    "imagePrompt": "AI Prompt: A person enjoying eating purple grapes from a bunch, happy expression, casual setting, photorealistic, 4k"
+  },
+  {
+    "english": "The mango smells delicious.",
+    "vietnamese": "Quả xoài này có mùi thơm ngon.",
+    "pronunciation": "Đờ mằng-gô smeo đi-lí-sớt",
+    "image": "topics/fruits/images/sentence-mango.webp",
+    "imagePrompt": "AI Prompt: A ripe mango being held close to nose, person smelling the fruit, aromatic concept, photorealistic, 4k"
+  },
+  {
+    "english": "Can you peel this orange for me?",
+    "vietnamese": "Bạn có thể bóc quả cam này cho tôi không?",
+    "pronunciation": "Kền diu pío đít ó-rinh fo mì",
+    "image": "topics/fruits/images/sentence-peel-orange.webp",
+    "imagePrompt": "AI Prompt: Hands peeling an orange, showing the process of removing orange peel, kitchen setting, photorealistic, 4k"
+  },
+  {
+    "english": "Fresh fruits are very healthy.",
+    "vietnamese": "Trái cây tươi rất tốt cho sức khỏe.",
+    "pronunciation": "Frếch frúts a ve-ri hen-thi",
+    "image": "topics/fruits/images/sentence-healthy.webp",
+    "imagePrompt": "AI Prompt: A colorful assortment of fresh fruits arranged beautifully, vibrant colors, health concept, photorealistic, 4k"
+  },
+  {
+    "english": "I drink fresh orange juice every morning.",
+    "vietnamese": "Tôi uống nước cam tươi mỗi sáng.",
+    "pronunciation": "Ai dríng frếch ó-rinh giút év-ri mó-ninh",
+    "image": "topics/fruits/images/sentence-juice.webp",
+    "imagePrompt": "AI Prompt: A glass of fresh orange juice on breakfast table with oranges, morning sunlight, refreshing drink, photorealistic, 4k"
+  }
+]
