@@ -420,12 +420,6 @@
         font-size: 13px;
     }
 
-    .btn-icon span,
-    .btn-primary span,
-    .btn-secondary span {
-        display: none;
-    }
-
     body {
         padding: 10px;
         flex-direction: column;
