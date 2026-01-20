@@ -1,0 +1,502 @@
+/* ===== SENTENCES PAGE STYLES ===== */
+
+/* Back Button */
+.back-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+}
+
+.practice-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+}
+
+/* Screen Management */
+.screen {
+    display: none;
+    width: 100%;
+}
+
+.screen.active {
+    display: block;
+}
+
+/* Container & Card */
+.container {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.card {
+    background: var(--white);
+    border-radius: 30px;
+    padding: 40px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+    animation: scaleIn 0.5s ease;
+}
+
+/* Topic Title */
+.topic-title {
+    text-align: center;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: var(--text-dark);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.topic-title i {
+    color: var(--primary-color);
+    font-size: 26px;
+}
+
+/* Image Container */
+.image-container {
+    width: 100%;
+    max-width: 500px;
+    height: 320px;
+    margin: 0 auto 30px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    background: var(--bg-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.image-container:hover img {
+    transform: scale(1.05);
+}
+
+/* Sentence Container */
+.sentence-container {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.english-sentence {
+    font-size: 32px;
+    color: var(--primary-color);
+    font-weight: 700;
+    margin-bottom: 15px;
+    line-height: 1.4;
+    animation: fadeIn 0.5s ease;
+}
+
+.vietnamese-sentence {
+    font-size: 20px;
+    color: var(--text-dark);
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.pronunciation {
+    font-size: 18px;
+    color: var(--text-light);
+    font-style: italic;
+}
+
+/* Navigation */
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.progress-indicator {
+    background: var(--bg-light);
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    color: var(--text-dark);
+    font-size: 16px;
+}
+
+/* Practice Screen */
+.practice-card {
+    position: relative;
+}
+
+.practice-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.practice-header h2 {
+    color: var(--text-dark);
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+}
+
+.score {
+    background: var(--success-color);
+    color: var(--white);
+    padding: 10px 20px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.question {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.question p {
+    font-size: 18px;
+    color: var(--text-dark);
+    font-weight: 600;
+}
+
+/* Selected Words Area */
+.selected-words-container {
+    background: var(--bg-light);
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 25px;
+    min-height: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.selected-words {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    min-height: 60px;
+}
+
+.selected-words .placeholder {
+    color: var(--text-light);
+    font-style: italic;
+    text-align: center;
+    width: 100%;
+}
+
+.selected-word {
+    background: var(--primary-color);
+    color: var(--white);
+    padding: 12px 20px;
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(108, 99, 255, 0.3);
+}
+
+.selected-word:hover {
+    background: var(--error-color);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(255, 71, 87, 0.4);
+}
+
+.btn-clear {
+    background: var(--white);
+    color: var(--text-dark);
+    padding: 10px 20px;
+    border-radius: 50px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    border: 2px solid var(--bg-light);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    align-self: center;
+}
+
+.btn-clear:hover {
+    border-color: var(--error-color);
+    color: var(--error-color);
+    transform: translateY(-2px);
+}
+
+/* Shuffled Words */
+.shuffled-words-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    margin-bottom: 25px;
+    min-height: 100px;
+}
+
+.word-btn {
+    background: var(--white);
+    color: var(--text-dark);
+    padding: 12px 20px;
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid var(--bg-light);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.word-btn:hover:not(:disabled) {
+    background: var(--secondary-color);
+    color: var(--white);
+    border-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3);
+}
+
+.word-btn:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+/* Action Buttons */
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.btn-check {
+    background: var(--success-color);
+    color: var(--white);
+    padding: 16px 40px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    box-shadow: 0 6px 20px rgba(0, 217, 163, 0.3);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-check:hover {
+    background: #00C291;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 217, 163, 0.4);
+}
+
+.btn-check i {
+    font-size: 20px;
+}
+
+/* Feedback */
+.feedback {
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: 600;
+    min-height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.feedback.correct {
+    background: rgba(0, 217, 163, 0.1);
+    color: var(--success-color);
+    border: 2px solid var(--success-color);
+}
+
+.feedback.wrong {
+    background: rgba(255, 71, 87, 0.1);
+    color: var(--error-color);
+    border: 2px solid var(--error-color);
+}
+
+.feedback i {
+    font-size: 32px;
+    flex-shrink: 0;
+}
+
+.feedback strong {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+.user-answer {
+    color: var(--error-color);
+    font-weight: 700;
+}
+
+.correct-answer {
+    color: var(--success-color);
+    font-weight: 700;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes scaleIn {
+    from {
+        transform: scale(0.9);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .back-button,
+    .practice-button {
+        position: static;
+        margin-bottom: 15px;
+    }
+
+    body {
+        padding: 10px;
+    }
+
+    .card {
+        padding: 25px;
+    }
+
+    .english-sentence {
+        font-size: 24px;
+    }
+
+    .vietnamese-sentence {
+        font-size: 18px;
+    }
+
+    .pronunciation {
+        font-size: 16px;
+    }
+
+    .navigation {
+        flex-direction: column;
+    }
+
+    .btn-nav {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .practice-header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .image-container {
+        height: 280px;
+    }
+
+    .selected-word,
+    .word-btn {
+        font-size: 16px;
+        padding: 10px 16px;
+    }
+
+    .btn-check {
+        padding: 14px 32px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .card {
+        padding: 20px;
+    }
+
+    .english-sentence {
+        font-size: 20px;
+    }
+
+    .vietnamese-sentence {
+        font-size: 16px;
+    }
+
+    .pronunciation {
+        font-size: 14px;
+    }
+
+    .image-container {
+        height: 220px;
+    }
+
+    .selected-words-container {
+        padding: 15px;
+        min-height: 100px;
+    }
+
+    .selected-word,
+    .word-btn {
+        font-size: 15px;
+        padding: 8px 14px;
+    }
+
+    .btn-check {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .feedback {
+        padding: 15px;
+        font-size: 14px;
+    }
+
+    .feedback i {
+        font-size: 24px;
+    }
+
+    .feedback strong {
+        font-size: 16px;
+    }
+}

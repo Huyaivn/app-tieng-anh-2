@@ -1,0 +1,460 @@
+/* ===== LEARNING PAGE STYLES ===== */
+
+/* Menu & Practice Buttons */
+.menu-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+}
+
+.sentences-button {
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    z-index: 100;
+}
+
+.practice-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+}
+
+/* Topic Menu Modal */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+.modal.active {
+    display: flex;
+}
+
+.modal-content {
+    background: var(--white);
+    border-radius: 20px;
+    padding: 30px;
+    max-width: 500px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    animation: slideUp 0.3s ease;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--bg-light);
+}
+
+.modal-header h2 {
+    color: var(--text-dark);
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.close-btn {
+    background: var(--bg-light);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-light);
+    font-size: 18px;
+}
+
+.close-btn:hover {
+    background: var(--error-color);
+    color: var(--white);
+    transform: rotate(90deg);
+}
+
+/* Topic List in Modal */
+.topic-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.topic-item {
+    background: var(--bg-light);
+    padding: 18px 20px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.topic-item:hover {
+    background: var(--primary-color);
+    color: var(--white);
+    transform: translateX(5px);
+}
+
+.topic-item.active {
+    background: var(--primary-color);
+    color: var(--white);
+    border-color: var(--primary-color);
+}
+
+.topic-item i {
+    font-size: 24px;
+}
+
+.topic-item span {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+/* Screen Management */
+.screen {
+    display: none;
+    width: 100%;
+}
+
+.screen.active {
+    display: block;
+}
+
+/* Container & Card */
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.card {
+    background: var(--white);
+    border-radius: 30px;
+    padding: 40px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+    animation: scaleIn 0.5s ease;
+}
+
+/* Topic Title */
+.topic-title {
+    text-align: center;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: var(--text-dark);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.topic-title i {
+    color: var(--primary-color);
+    font-size: 24px;
+}
+
+/* Image Container */
+.image-container {
+    width: 100%;
+    max-width: 400px;
+    height: 300px;
+    margin: 0 auto 30px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    background: var(--bg-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.image-container:hover img {
+    transform: scale(1.05);
+}
+
+/* Word Container */
+.word-container {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.english-word {
+    font-size: 48px;
+    color: var(--primary-color);
+    font-weight: 700;
+    margin-bottom: 10px;
+    animation: fadeIn 0.5s ease;
+}
+
+.vietnamese-word {
+    font-size: 24px;
+    color: var(--text-dark);
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.pronunciation {
+    font-size: 20px;
+    color: var(--text-light);
+    font-style: italic;
+}
+
+/* Navigation */
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.progress-indicator {
+    background: var(--bg-light);
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    color: var(--text-dark);
+    font-size: 16px;
+}
+
+/* Practice Screen */
+.practice-card {
+    position: relative;
+}
+
+.practice-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.practice-header h2 {
+    color: var(--text-dark);
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+}
+
+.score {
+    background: var(--success-color);
+    color: var(--white);
+    padding: 10px 20px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.question {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.question p {
+    font-size: 18px;
+    color: var(--text-dark);
+    font-weight: 500;
+}
+
+/* Practice Options */
+.options-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.option-btn {
+    background: var(--bg-light);
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--text-dark);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.option-btn:hover:not(:disabled) {
+    background: var(--primary-color);
+    color: var(--white);
+    transform: translateY(-2px);
+}
+
+.option-btn.correct {
+    background: var(--success-color);
+    color: var(--white);
+    border-color: var(--success-color);
+}
+
+.option-btn.wrong {
+    background: var(--error-color);
+    color: var(--white);
+    border-color: var(--error-color);
+}
+
+.option-btn:disabled {
+    cursor: not-allowed;
+}
+
+/* Feedback */
+.feedback {
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-height: 60px;
+}
+
+.feedback.correct {
+    background: rgba(0, 217, 163, 0.1);
+    color: var(--success-color);
+}
+
+.feedback.wrong {
+    background: rgba(255, 71, 87, 0.1);
+    color: var(--error-color);
+}
+
+.feedback i {
+    font-size: 24px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes scaleIn {
+    from {
+        transform: scale(0.9);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .menu-button,
+    .sentences-button,
+    .practice-button {
+        position: static;
+        margin-bottom: 15px;
+    }
+
+    body {
+        padding: 10px;
+    }
+
+    .card {
+        padding: 25px;
+    }
+
+    .english-word {
+        font-size: 36px;
+    }
+
+    .vietnamese-word {
+        font-size: 20px;
+    }
+
+    .pronunciation {
+        font-size: 16px;
+    }
+
+    .navigation {
+        flex-direction: column;
+    }
+
+    .btn-nav {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .options-container {
+        grid-template-columns: 1fr;
+    }
+
+    .practice-header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .image-container {
+        height: 250px;
+    }
+}
+
+@media (max-width: 480px) {
+    .modal-content {
+        padding: 20px;
+    }
+
+    .english-word {
+        font-size: 28px;
+    }
+
+    .vietnamese-word {
+        font-size: 18px;
+    }
+
+    .option-btn {
+        padding: 15px;
+        font-size: 16px;
+    }
+}
