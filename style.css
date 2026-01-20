@@ -469,6 +469,7 @@ button, a.btn-icon, a.btn-primary, a.btn-secondary {
 @media (max-width: 480px) {
     body {
         padding: 10px;
+        flex-direction: column;
     }
 
     .home-container {
