@@ -1,18 +1,24 @@
 /* ===== SENTENCES PAGE STYLES ===== */
 
-/* Back Button */
-.back-button {
+/* Buttons Container */
+.buttons-container {
     position: fixed;
     top: 20px;
     left: 20px;
+    right: 20px;
     z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+/* Back Button */
+.back-button {
+    flex-shrink: 0;
 }
 
 .practice-button {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 100;
+    flex-shrink: 0;
 }
 
 /* Screen Management */
@@ -394,10 +400,22 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .back-button,
-    .practice-button {
+    .buttons-container {
         position: static;
+        padding: 10px;
         margin-bottom: 15px;
+        gap: 10px;
+    }
+
+    .btn-icon,
+    .btn-primary {
+        padding: 10px 16px;
+        font-size: 13px;
+    }
+
+    .btn-icon span,
+    .btn-primary span {
+        display: none;
     }
 
     body {
@@ -451,6 +469,17 @@
 }
 
 @media (max-width: 480px) {
+    .buttons-container {
+        padding: 8px;
+        gap: 8px;
+    }
+
+    .btn-icon,
+    .btn-primary {
+        padding: 8px 12px;
+        font-size: 16px;
+    }
+
     .card {
         padding: 20px;
     }
