@@ -10,20 +10,18 @@ const topics = {
         name: 'Trái cây - Fruits',
         icon: 'fa-apple-alt',
         dataPath: 'topics/fruits/data.json'
-    }
-    // Thêm chủ đề mới ở đây:
-    /*
-    animals: {
-        name: 'Động vật - Animals',
-        icon: 'fa-paw',
-        dataPath: 'topics/animals/data.json'
     },
-    colors: {
-        name: 'Màu sắc - Colors',
-        icon: 'fa-palette',
-        dataPath: 'topics/colors/data.json'
+    house: {
+        name: 'Nhà cửa & Đồ dùng - House & Furniture',
+        icon: 'fa-home',
+        dataPath: 'topics/house/data.json'
+    },
+    clothing: {
+        name: 'Quần áo & Thời trang - Clothing & Fashion',
+        icon: 'fa-tshirt',
+        dataPath: 'topics/clothing/data.json'
     }
-    */
+    // Thêm chủ đề mới ở đây
 };
 
 // ===== DOM ELEMENTS =====
@@ -143,6 +141,12 @@ async function loadTopic(topicKey) {
         
         // Update topic name
         currentTopicName.innerHTML = `<i class="fas ${topic.icon}"></i> ${topic.name}`;
+        
+        // Update sentences link with current topic
+        const sentencesLink = document.getElementById('sentencesLink');
+        if (sentencesLink) {
+            sentencesLink.href = `sentences.html?topic=${topicKey}`;
+        }
         
         // Show first word
         showWord(currentIndex);
