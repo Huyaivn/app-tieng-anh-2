@@ -1,0 +1,247 @@
+[
+  {
+    "english": "T-shirt",
+    "vietnamese": "Áo phông",
+    "pronunciation": "Tí-Shớ-t",
+    "image": "topics/clothing/images/tshirt.webp",
+    "imagePrompt": "AI Prompt: A casual t-shirt on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Shirt",
+    "vietnamese": "Áo sơ mi",
+    "pronunciation": "Shớ-t",
+    "image": "topics/clothing/images/shirt.webp",
+    "imagePrompt": "AI Prompt: A formal dress shirt on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Jeans",
+    "vietnamese": "Quần jean",
+    "pronunciation": "Gín-s",
+    "image": "topics/clothing/images/jeans.webp",
+    "imagePrompt": "AI Prompt: A pair of blue jeans on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Pants",
+    "vietnamese": "Quần dài",
+    "pronunciation": "Pàn-ts",
+    "image": "topics/clothing/images/pants.webp",
+    "imagePrompt": "AI Prompt: A pair of formal pants on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Shorts",
+    "vietnamese": "Quần đùi",
+    "pronunciation": "Shót-s",
+    "image": "topics/clothing/images/shorts.webp",
+    "imagePrompt": "AI Prompt: A pair of casual shorts on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Dress",
+    "vietnamese": "Váy",
+    "pronunciation": "Đrét-s",
+    "image": "topics/clothing/images/dress.webp",
+    "imagePrompt": "AI Prompt: A beautiful dress on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Skirt",
+    "vietnamese": "Chân váy",
+    "pronunciation": "s-kớt",
+    "image": "topics/clothing/images/skirt.webp",
+    "imagePrompt": "AI Prompt: A fashionable skirt on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Jacket",
+    "vietnamese": "Áo khoác",
+    "pronunciation": "Giác-kệt",
+    "image": "topics/clothing/images/jacket.webp",
+    "imagePrompt": "AI Prompt: A stylish jacket on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Coat",
+    "vietnamese": "Áo choàng",
+    "pronunciation": "Cô-t",
+    "image": "topics/clothing/images/coat.webp",
+    "imagePrompt": "AI Prompt: A long winter coat on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Sweater",
+    "vietnamese": "Áo len",
+    "pronunciation": "s-wát-tờ",
+    "image": "topics/clothing/images/sweater.webp",
+    "imagePrompt": "AI Prompt: A cozy sweater on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Hoodie",
+    "vietnamese": "Áo hoodie",
+    "pronunciation": "Hú-đi",
+    "image": "topics/clothing/images/hoodie.webp",
+    "imagePrompt": "AI Prompt: A casual hoodie with hood on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Suit",
+    "vietnamese": "Bộ vest",
+    "pronunciation": "Sút-t",
+    "image": "topics/clothing/images/suit.webp",
+    "imagePrompt": "AI Prompt: A formal business suit on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Tie",
+    "vietnamese": "Cà vạt",
+    "pronunciation": "Tai",
+    "image": "topics/clothing/images/tie.webp",
+    "imagePrompt": "AI Prompt: A formal necktie on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Socks",
+    "vietnamese": "Tất",
+    "pronunciation": "Sóc-ks",
+    "image": "topics/clothing/images/socks.webp",
+    "imagePrompt": "AI Prompt: A pair of socks on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Shoes",
+    "vietnamese": "Giày",
+    "pronunciation": "Shút-s",
+    "image": "topics/clothing/images/shoes.webp",
+    "imagePrompt": "AI Prompt: A pair of shoes on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Sneakers",
+    "vietnamese": "Giày thể thao",
+    "pronunciation": "S-ní-kờ-s",
+    "image": "topics/clothing/images/sneakers.webp",
+    "imagePrompt": "AI Prompt: A pair of sneakers on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Boots",
+    "vietnamese": "Ủng",
+    "pronunciation": "Bút-s",
+    "image": "topics/clothing/images/boots.webp",
+    "imagePrompt": "AI Prompt: A pair of boots on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Sandals",
+    "vietnamese": "Dép",
+    "pronunciation": "Sén-đồ-s",
+    "image": "topics/clothing/images/sandals.webp",
+    "imagePrompt": "AI Prompt: A pair of sandals on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Hat",
+    "vietnamese": "Mũ",
+    "pronunciation": "Hát",
+    "image": "topics/clothing/images/hat.webp",
+    "imagePrompt": "AI Prompt: A stylish hat on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Cap",
+    "vietnamese": "Mũ lưỡi trai",
+    "pronunciation": "Cáp",
+    "image": "topics/clothing/images/cap.webp",
+    "imagePrompt": "AI Prompt: A baseball cap on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Scarf",
+    "vietnamese": "Khăn quàng cổ",
+    "pronunciation": "S-cóp-f",
+    "image": "topics/clothing/images/scarf.webp",
+    "imagePrompt": "AI Prompt: A beautiful scarf on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Gloves",
+    "vietnamese": "Găng tay",
+    "pronunciation": "G-lớp-vs",
+    "image": "topics/clothing/images/gloves.webp",
+    "imagePrompt": "AI Prompt: A pair of gloves on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Belt",
+    "vietnamese": "Thắt lưng",
+    "pronunciation": "Béo-t",
+    "image": "topics/clothing/images/belt.webp",
+    "imagePrompt": "AI Prompt: A leather belt on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Watch",
+    "vietnamese": "Đồng hồ",
+    "pronunciation": "Wát-ch",
+    "image": "topics/clothing/images/watch.webp",
+    "imagePrompt": "AI Prompt: A wristwatch on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Glasses",
+    "vietnamese": "Kính",
+    "pronunciation": "G-lá-xờ-s",
+    "image": "topics/clothing/images/glasses.webp",
+    "imagePrompt": "AI Prompt: A pair of eyeglasses on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Sunglasses",
+    "vietnamese": "Kính râm",
+    "pronunciation": "Xớn-g-lá-xờ-s",
+    "image": "topics/clothing/images/sunglasses.webp",
+    "imagePrompt": "AI Prompt: A pair of sunglasses on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Bag",
+    "vietnamese": "Túi xách",
+    "pronunciation": "Bách-g",
+    "image": "topics/clothing/images/bag.webp",
+    "imagePrompt": "AI Prompt: A fashionable bag on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Backpack",
+    "vietnamese": "Ba lô",
+    "pronunciation": "Bác-pàc-k",
+    "image": "topics/clothing/images/backpack.webp",
+    "imagePrompt": "AI Prompt: A modern backpack on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Wallet",
+    "vietnamese": "Ví",
+    "pronunciation": "Wố-lịt",
+    "image": "topics/clothing/images/wallet.webp",
+    "imagePrompt": "AI Prompt: A leather wallet on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Umbrella",
+    "vietnamese": "Ô/Dù",
+    "pronunciation": "Ôm-bréo-lợt",
+    "image": "topics/clothing/images/umbrella.webp",
+    "imagePrompt": "AI Prompt: An umbrella on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Pajamas",
+    "vietnamese": "Đồ ngủ",
+    "pronunciation": "Pơ-jóm-mợt-s",
+    "image": "topics/clothing/images/pajamas.webp",
+    "imagePrompt": "AI Prompt: Comfortable pajamas on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Underwear",
+    "vietnamese": "Đồ lót",
+    "pronunciation": "Ớn-đơ-weơ",
+    "image": "topics/clothing/images/underwear.webp",
+    "imagePrompt": "AI Prompt: Basic underwear on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Swimsuit",
+    "vietnamese": "Đồ bơi",
+    "pronunciation": "S-wím-sụt",
+    "image": "topics/clothing/images/swimsuit.webp",
+    "imagePrompt": "AI Prompt: A swimsuit on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Raincoat",
+    "vietnamese": "Áo mưa",
+    "pronunciation": "Ruyến-cột-t",
+    "image": "topics/clothing/images/raincoat.webp",
+    "imagePrompt": "AI Prompt: A waterproof raincoat on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Uniform",
+    "vietnamese": "Đồng phục",
+    "pronunciation": "Uí-ni-fom",
+    "image": "topics/clothing/images/uniform.webp",
+    "imagePrompt": "AI Prompt: A school or work uniform on white background, photorealistic, studio lighting, high quality, 4k"
+  }
+]

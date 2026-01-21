@@ -1,0 +1,177 @@
+[
+  {
+    "english": "I wear a T-shirt every day.",
+    "vietnamese": "Tôi mặc áo phông mỗi ngày.",
+    "pronunciation": "Ai wéo ơ tí-shớt év-ri đây",
+    "image": "topics/clothing/images/sentence-wear-tshirt.webp",
+    "imagePrompt": "AI Prompt: A person wearing a casual t-shirt, everyday style, photorealistic, 4k"
+  },
+  {
+    "english": "He is wearing a white shirt.",
+    "vietnamese": "Anh ấy đang mặc áo sơ mi trắng.",
+    "pronunciation": "Hi ít wéo-rinh ơ wai-t shớt",
+    "image": "topics/clothing/images/sentence-white-shirt.webp",
+    "imagePrompt": "AI Prompt: A man wearing a crisp white dress shirt, professional look, photorealistic, 4k"
+  },
+  {
+    "english": "These jeans are very comfortable.",
+    "vietnamese": "Quần jean này rất thoải mái.",
+    "pronunciation": "Thít-s gín-s o-ò ve-ri cóm-fớt-bồ",
+    "image": "topics/clothing/images/sentence-comfortable-jeans.webp",
+    "imagePrompt": "AI Prompt: A person wearing comfortable jeans, relaxed fit, casual setting, photorealistic, 4k"
+  },
+  {
+    "english": "She bought a beautiful dress.",
+    "vietnamese": "Cô ấy đã mua một chiếc váy đẹp.",
+    "pronunciation": "Sì bót ơ biú-ti-fồ đrét-s",
+    "image": "topics/clothing/images/sentence-buy-dress.webp",
+    "imagePrompt": "AI Prompt: A woman holding a beautiful new dress, shopping scene, happy, photorealistic, 4k"
+  },
+  {
+    "english": "I need a warm jacket for winter.",
+    "vietnamese": "Tôi cần một chiếc áo khoác ấm cho mùa đông.",
+    "pronunciation": "Ai níd ơ wóm giá-kịt fo wín-tơ",
+    "image": "topics/clothing/images/sentence-warm-jacket.webp",
+    "imagePrompt": "AI Prompt: A person wearing a warm winter jacket, cold weather, photorealistic, 4k"
+  },
+  {
+    "english": "This coat is too big for me.",
+    "vietnamese": "Chiếc áo choàng này quá rộng với tôi.",
+    "pronunciation": "Thít-s cô-t ít tú bích fo mi",
+    "image": "topics/clothing/images/sentence-big-coat.webp",
+    "imagePrompt": "AI Prompt: A person wearing an oversized coat, too large, photorealistic, 4k"
+  },
+  {
+    "english": "I like this red sweater.",
+    "vietnamese": "Tôi thích chiếc áo len đỏ này.",
+    "pronunciation": "Ai lai-k thít-s réd xwé-tơ",
+    "image": "topics/clothing/images/sentence-red-sweater.webp",
+    "imagePrompt": "AI Prompt: A person wearing a cozy red sweater, pleased expression, photorealistic, 4k"
+  },
+  {
+    "english": "He wears a suit to work.",
+    "vietnamese": "Anh ấy mặc vest đi làm.",
+    "pronunciation": "Hi wéo-s ơ xút tú wớc",
+    "image": "topics/clothing/images/sentence-suit-work.webp",
+    "imagePrompt": "AI Prompt: A businessman wearing formal suit going to work, professional, photorealistic, 4k"
+  },
+  {
+    "english": "Please put on your shoes.",
+    "vietnamese": "Làm ơn đi giày vào.",
+    "pronunciation": "Pli-z pút on dio-ò shú-s",
+    "image": "topics/clothing/images/sentence-put-shoes.webp",
+    "imagePrompt": "AI Prompt: A person putting on shoes, getting ready, photorealistic, 4k"
+  },
+  {
+    "english": "I need new sneakers for running.",
+    "vietnamese": "Tôi cần giày thể thao mới để chạy bộ.",
+    "pronunciation": "Ai níd niú xní-kơ-s fo ró-ninh",
+    "image": "topics/clothing/images/sentence-sneakers-running.webp",
+    "imagePrompt": "AI Prompt: New running sneakers, athletic shoes for exercise, photorealistic, 4k"
+  },
+  {
+    "english": "Don't forget your socks.",
+    "vietnamese": "Đừng quên tất.",
+    "pronunciation": "Đôn-t fơ-ghét dio-ò xóc-s",
+    "image": "topics/clothing/images/sentence-forget-socks.webp",
+    "imagePrompt": "AI Prompt: A pair of socks being picked up, reminder concept, photorealistic, 4k"
+  },
+  {
+    "english": "She wears a hat in summer.",
+    "vietnamese": "Cô ấy đội mũ vào mùa hè.",
+    "pronunciation": "Sì wéo-s ơ hát in xớ-mơ",
+    "image": "topics/clothing/images/sentence-hat-summer.webp",
+    "imagePrompt": "AI Prompt: A woman wearing a sun hat in summer, sunny day, photorealistic, 4k"
+  },
+  {
+    "english": "This scarf is very soft.",
+    "vietnamese": "Chiếc khăn quàng cổ này rất mềm.",
+    "pronunciation": "Thít-s xcóp-f ít ve-ri xóp-t",
+    "image": "topics/clothing/images/sentence-soft-scarf.webp",
+    "imagePrompt": "AI Prompt: A person touching a soft scarf, comfortable texture, photorealistic, 4k"
+  },
+  {
+    "english": "I need gloves for cold weather.",
+    "vietnamese": "Tôi cần găng tay cho thời tiết lạnh.",
+    "pronunciation": "Ai níd glớv-s fo cô-ồ wé-thơ",
+    "image": "topics/clothing/images/sentence-gloves-cold.webp",
+    "imagePrompt": "AI Prompt: Winter gloves in cold weather, keeping hands warm, photorealistic, 4k"
+  },
+  {
+    "english": "He is wearing a belt.",
+    "vietnamese": "Anh ấy đang đeo thắt lưng.",
+    "pronunciation": "Hi ít wéo-rinh ơ béo-t",
+    "image": "topics/clothing/images/sentence-wearing-belt.webp",
+    "imagePrompt": "AI Prompt: A person wearing a leather belt with pants, waist detail, photorealistic, 4k"
+  },
+  {
+    "english": "This watch is expensive.",
+    "vietnamese": "Chiếc đồng hồ này đắt tiền.",
+    "pronunciation": "Thít-s wóch ít ích-spén-xív",
+    "image": "topics/clothing/images/sentence-expensive-watch.webp",
+    "imagePrompt": "AI Prompt: An expensive luxury watch on wrist, high quality timepiece, photorealistic, 4k"
+  },
+  {
+    "english": "I can't see without my glasses.",
+    "vietnamese": "Tôi không thể nhìn được nếu không có kính.",
+    "pronunciation": "Ai kàn-t sì with-ao-t mai glá-xờ-s",
+    "image": "topics/clothing/images/sentence-need-glasses.webp",
+    "imagePrompt": "AI Prompt: A person putting on eyeglasses to see clearly, vision correction, photorealistic, 4k"
+  },
+  {
+    "english": "She is wearing sunglasses.",
+    "vietnamese": "Cô ấy đang đeo kính râm.",
+    "pronunciation": "Sì ít wéo-rinh xớn-glá-xờ-s",
+    "image": "topics/clothing/images/sentence-wearing-sunglasses.webp",
+    "imagePrompt": "AI Prompt: A woman wearing stylish sunglasses, sunny day, fashionable, photorealistic, 4k"
+  },
+  {
+    "english": "Put your books in the backpack.",
+    "vietnamese": "Để sách vào ba lô.",
+    "pronunciation": "Pút dio-ò búc-s in thờ bác-pác",
+    "image": "topics/clothing/images/sentence-books-backpack.webp",
+    "imagePrompt": "AI Prompt: Books being placed into a backpack, school preparation, photorealistic, 4k"
+  },
+  {
+    "english": "My wallet is in my pocket.",
+    "vietnamese": "Ví của tôi ở trong túi.",
+    "pronunciation": "Mai wó-lịt ít in mai pó-kịt",
+    "image": "topics/clothing/images/sentence-wallet-pocket.webp",
+    "imagePrompt": "AI Prompt: A wallet in pants pocket, personal belongings, photorealistic, 4k"
+  },
+  {
+    "english": "Take an umbrella, it's raining.",
+    "vietnamese": "Mang theo ô, trời đang mưa.",
+    "pronunciation": "Têi-k en óm-bréo-la ít-s rây-ninh",
+    "image": "topics/clothing/images/sentence-umbrella-rain.webp",
+    "imagePrompt": "AI Prompt: A person holding an umbrella in the rain, rainy weather, photorealistic, 4k"
+  },
+  {
+    "english": "I wear pajamas to sleep.",
+    "vietnamese": "Tôi mặc đồ ngủ khi đi ngủ.",
+    "pronunciation": "Ai wéo pơ-giá-mơ-s tú xlíp",
+    "image": "topics/clothing/images/sentence-pajamas-sleep.webp",
+    "imagePrompt": "AI Prompt: A person wearing comfortable pajamas ready for bed, bedtime, photorealistic, 4k"
+  },
+  {
+    "english": "I need a new swimsuit for the beach.",
+    "vietnamese": "Tôi cần đồ bơi mới để đi biển.",
+    "pronunciation": "Ai níd ơ niú xwím-xút fo thờ bích",
+    "image": "topics/clothing/images/sentence-swimsuit-beach.webp",
+    "imagePrompt": "AI Prompt: A new swimsuit ready for beach vacation, summer activity, photorealistic, 4k"
+  },
+  {
+    "english": "Wear a raincoat when it rains.",
+    "vietnamese": "Mặc áo mưa khi trời mưa.",
+    "pronunciation": "Wéo ơ rây-n-cô-t wen ít rây-n-s",
+    "image": "topics/clothing/images/sentence-raincoat-rain.webp",
+    "imagePrompt": "AI Prompt: A person wearing a raincoat in rainy weather, waterproof protection, photorealistic, 4k"
+  },
+  {
+    "english": "Students must wear uniforms to school.",
+    "vietnamese": "Học sinh phải mặc đồng phục đến trường.",
+    "pronunciation": "Xtiú-đen-ts mớt wéo iú-ni-fóm-s tú xcú-ồ",
+    "image": "topics/clothing/images/sentence-uniform-school.webp",
+    "imagePrompt": "AI Prompt: Students wearing school uniforms, education setting, photorealistic, 4k"
+  }
+]
