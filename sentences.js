@@ -14,6 +14,14 @@ const topics = {
     fruits: {
         name: 'Fruits',
         dataPath: 'topics/fruits/sentences.json'
+    },
+    house: {
+        name: 'House & Furniture',
+        dataPath: 'topics/house/sentences.json'
+    },
+    clothing: {
+        name: 'Clothing & Fashion',
+        dataPath: 'topics/clothing/sentences.json'
     }
 };
 
@@ -45,6 +53,20 @@ const scoreSpan = document.getElementById('score');
 
 // ===== INITIALIZATION =====
 document.addEventListener('DOMContentLoaded', () => {
+    // Get topic from URL parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const topicParam = urlParams.get('topic');
+    
+    if (topicParam && topics[topicParam]) {
+        currentTopic = topicParam;
+    }
+    
+    // Update back link with current topic
+    const backLink = document.getElementById('backLink');
+    if (backLink) {
+        backLink.href = `learn.html?topic=${currentTopic}`;
+    }
+    
     loadSentences(currentTopic);
     setupEventListeners();
 });
