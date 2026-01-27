@@ -1,0 +1,247 @@
+[
+  {
+    "english": "House",
+    "vietnamese": "Ngôi nhà",
+    "pronunciation": "Hao-s",
+    "image": "topics/house/images/house.webp",
+    "imagePrompt": "AI Prompt: A beautiful modern house exterior with garden on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Room",
+    "vietnamese": "Phòng",
+    "pronunciation": "Rum",
+    "image": "topics/house/images/room.webp",
+    "imagePrompt": "AI Prompt: A cozy modern bedroom interior on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Living Room",
+    "vietnamese": "Phòng khách",
+    "pronunciation": "Lí-vinh Rum",
+    "image": "topics/house/images/living-room.webp",
+    "imagePrompt": "AI Prompt: A comfortable living room with sofa and TV on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Bedroom",
+    "vietnamese": "Phòng ngủ",
+    "pronunciation": "Béd-rum",
+    "image": "topics/house/images/bedroom.webp",
+    "imagePrompt": "AI Prompt: A cozy bedroom with bed and nightstand on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Kitchen",
+    "vietnamese": "Nhà bếp",
+    "pronunciation": "Kít-chơn",
+    "image": "topics/house/images/kitchen.webp",
+    "imagePrompt": "AI Prompt: A modern kitchen with cabinets and countertop on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Bathroom",
+    "vietnamese": "Phòng tắm",
+    "pronunciation": "Bát-rum",
+    "image": "topics/house/images/bathroom.webp",
+    "imagePrompt": "AI Prompt: A clean modern bathroom with shower on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Dining Room",
+    "vietnamese": "Phòng ăn",
+    "pronunciation": "Đai-ninh Rum",
+    "image": "topics/house/images/dining-room.webp",
+    "imagePrompt": "AI Prompt: A dining room with table and chairs on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Garage",
+    "vietnamese": "Nhà để xe",
+    "pronunciation": "Gơ-rach",
+    "image": "topics/house/images/garage.webp",
+    "imagePrompt": "AI Prompt: A garage interior with car on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Garden",
+    "vietnamese": "Vườn",
+    "pronunciation": "Gó-đờn",
+    "image": "topics/house/images/garden.webp",
+    "imagePrompt": "AI Prompt: A beautiful flower garden with green grass on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Door",
+    "vietnamese": "Cửa",
+    "pronunciation": "Đo-ò",
+    "image": "topics/house/images/door.webp",
+    "imagePrompt": "AI Prompt: A modern wooden door on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Window",
+    "vietnamese": "Cửa sổ",
+    "pronunciation": "Wín-đồ",
+    "image": "topics/house/images/window.webp",
+    "imagePrompt": "AI Prompt: A large window with frame on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Sofa",
+    "vietnamese": "Ghế sofa",
+    "pronunciation": "Sô-fa",
+    "image": "topics/house/images/sofa.webp",
+    "imagePrompt": "AI Prompt: A comfortable modern sofa on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Chair",
+    "vietnamese": "Ghế",
+    "pronunciation": "Chéo-ò",
+    "image": "topics/house/images/chair.webp",
+    "imagePrompt": "AI Prompt: A modern chair on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Table",
+    "vietnamese": "Bàn",
+    "pronunciation": "Tây-bồ",
+    "image": "topics/house/images/table.webp",
+    "imagePrompt": "AI Prompt: A modern dining table on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Bed",
+    "vietnamese": "Giường",
+    "pronunciation": "Bát-d",
+    "image": "topics/house/images/bed.webp",
+    "imagePrompt": "AI Prompt: A comfortable bed with pillows on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Wardrobe",
+    "vietnamese": "Tủ quần áo",
+    "pronunciation": "Wâu-rộp",
+    "image": "topics/house/images/wardrobe.webp",
+    "imagePrompt": "AI Prompt: A modern wardrobe closet on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Desk",
+    "vietnamese": "Bàn làm việc",
+    "pronunciation": "Đéc-s-k",
+    "image": "topics/house/images/desk.webp",
+    "imagePrompt": "AI Prompt: A modern work desk on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Shelf",
+    "vietnamese": "Kệ",
+    "pronunciation": "Sau-f",
+    "image": "topics/house/images/shelf.webp",
+    "imagePrompt": "AI Prompt: A wooden bookshelf on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Lamp",
+    "vietnamese": "Đèn",
+    "pronunciation": "Lem-p",
+    "image": "topics/house/images/lamp.webp",
+    "imagePrompt": "AI Prompt: A modern table lamp on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Television",
+    "vietnamese": "Ti vi",
+    "pronunciation": "Téo-lơ-vi-sờn",
+    "image": "topics/house/images/television.webp",
+    "imagePrompt": "AI Prompt: A modern flat screen TV on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Refrigerator",
+    "vietnamese": "Tủ lạnh",
+    "pronunciation": "Ri-fí-giơ-rây-tơ",
+    "image": "topics/house/images/refrigerator.webp",
+    "imagePrompt": "AI Prompt: A modern refrigerator on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Washing Machine",
+    "vietnamese": "Máy giặt",
+    "pronunciation": "Wóa-shinh Mếch-shín",
+    "image": "topics/house/images/washing-machine.webp",
+    "imagePrompt": "AI Prompt: A modern washing machine on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Air Conditioner",
+    "vietnamese": "Máy lạnh",
+    "pronunciation": "Éo Cơn-đí-shơn-nơ",
+    "image": "topics/house/images/air-conditioner.webp",
+    "imagePrompt": "AI Prompt: A modern air conditioner unit on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Fan",
+    "vietnamese": "Quạt",
+    "pronunciation": "Fen",
+    "image": "topics/house/images/fan.webp",
+    "imagePrompt": "AI Prompt: An electric fan on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Microwave",
+    "vietnamese": "Lò vi sóng",
+    "pronunciation": "Mai-crô-wây-v",
+    "image": "topics/house/images/microwave.webp",
+    "imagePrompt": "AI Prompt: A modern microwave oven on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Oven",
+    "vietnamese": "Lò nướng",
+    "pronunciation": "Ó-vờn",
+    "image": "topics/house/images/oven.webp",
+    "imagePrompt": "AI Prompt: A modern oven on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Stove",
+    "vietnamese": "Bếp",
+    "pronunciation": "S-tô-v",
+    "image": "topics/house/images/stove.webp",
+    "imagePrompt": "AI Prompt: A modern gas stove on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Sink",
+    "vietnamese": "Bồn rửa",
+    "pronunciation": "Sinh-k",
+    "image": "topics/house/images/sink.webp",
+    "imagePrompt": "AI Prompt: A modern kitchen sink on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Toilet",
+    "vietnamese": "Nhà vệ sinh",
+    "pronunciation": "Tói-lét",
+    "image": "topics/house/images/toilet.webp",
+    "imagePrompt": "AI Prompt: A modern toilet on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Shower",
+    "vietnamese": "Vòi sen",
+    "pronunciation": "Sháo-ơ",
+    "image": "topics/house/images/shower.webp",
+    "imagePrompt": "AI Prompt: A modern shower head on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Mirror",
+    "vietnamese": "Gương",
+    "pronunciation": "Mí-rơ",
+    "image": "topics/house/images/mirror.webp",
+    "imagePrompt": "AI Prompt: A modern wall mirror on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Carpet",
+    "vietnamese": "Thảm",
+    "pronunciation": "Có-pịt",
+    "image": "topics/house/images/carpet.webp",
+    "imagePrompt": "AI Prompt: A colorful carpet rug on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Curtain",
+    "vietnamese": "Rèm cửa",
+    "pronunciation": "Cớ-từn",
+    "image": "topics/house/images/curtain.webp",
+    "imagePrompt": "AI Prompt: Beautiful window curtains on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Pillow",
+    "vietnamese": "Gối",
+    "pronunciation": "Pí-lô",
+    "image": "topics/house/images/pillow.webp",
+    "imagePrompt": "AI Prompt: A comfortable pillow on white background, photorealistic, studio lighting, high quality, 4k"
+  },
+  {
+    "english": "Blanket",
+    "vietnamese": "Chăn",
+    "pronunciation": "B-lang-kệt",  
+    "image": "topics/house/images/blanket.webp",
+    "imagePrompt": "AI Prompt: A soft blanket on white background, photorealistic, studio lighting, high quality, 4k"
+  }
+]

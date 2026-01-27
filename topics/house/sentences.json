@@ -1,0 +1,177 @@
+[
+  {
+    "english": "This is my house.",
+    "vietnamese": "Đây là ngôi nhà của tôi.",
+    "pronunciation": "Thít-s ít mai hao-s",
+    "image": "topics/house/images/sentence-house.webp",
+    "imagePrompt": "AI Prompt: A person proudly standing in front of their beautiful house, welcoming gesture, photorealistic, 4k"
+  },
+  {
+    "english": "I live in a big house.",
+    "vietnamese": "Tôi sống trong một ngôi nhà lớn.",
+    "pronunciation": "Ai lív in ơ bích hao-s",
+    "image": "topics/house/images/sentence-big-house.webp",
+    "imagePrompt": "AI Prompt: A large beautiful modern house with garden, impressive size, photorealistic, 4k"
+  },
+  {
+    "english": "My bedroom is upstairs.",
+    "vietnamese": "Phòng ngủ của tôi ở tầng trên.",
+    "pronunciation": "Mai béd-rum ít óp-xtéo-s",
+    "image": "topics/house/images/sentence-bedroom-upstairs.webp",
+    "imagePrompt": "AI Prompt: A staircase leading to bedroom upstairs, interior house view, photorealistic, 4k"
+  },
+  {
+    "english": "The kitchen is very clean.",
+    "vietnamese": "Nhà bếp rất sạch sẽ.",
+    "pronunciation": "Thờ kít-chơn ít ve-ri clín",
+    "image": "topics/house/images/sentence-clean-kitchen.webp",
+    "imagePrompt": "AI Prompt: A spotless modern kitchen, shiny countertops and cabinets, very clean and organized, photorealistic, 4k"
+  },
+  {
+    "english": "We have a beautiful garden.",
+    "vietnamese": "Chúng tôi có một khu vườn đẹp.",
+    "pronunciation": "Wi hav ơ biú-ti-fồ gó-đen",
+    "image": "topics/house/images/sentence-beautiful-garden.webp",
+    "imagePrompt": "AI Prompt: A stunning garden with colorful flowers and green lawn, beautiful landscape, photorealistic, 4k"
+  },
+  {
+    "english": "Please close the door.",
+    "vietnamese": "Làm ơn đóng cửa lại.",
+    "pronunciation": "Pli-z clô-z thờ đo-ò",
+    "image": "topics/house/images/sentence-close-door.webp",
+    "imagePrompt": "AI Prompt: A person closing a door, hand on door handle, photorealistic, 4k"
+  },
+  {
+    "english": "Open the window, please.",
+    "vietnamese": "Làm ơn mở cửa sổ.",
+    "pronunciation": "Ô-pen thờ wín-đô pli-z",
+    "image": "topics/house/images/sentence-open-window.webp",
+    "imagePrompt": "AI Prompt: A person opening a window, fresh air coming in, photorealistic, 4k"
+  },
+  {
+    "english": "I sit on the sofa every evening.",
+    "vietnamese": "Tôi ngồi trên ghế sofa mỗi tối.",
+    "pronunciation": "Ai xít on thờ sô-fa év-ri í-v-ninh",
+    "image": "topics/house/images/sentence-sit-sofa.webp",
+    "imagePrompt": "AI Prompt: A person relaxing on comfortable sofa in evening, cozy living room setting, photorealistic, 4k"
+  },
+  {
+    "english": "The table is in the dining room.",
+    "vietnamese": "Cái bàn ở trong phòng ăn.",
+    "pronunciation": "Thờ tây-bồ ít in thờ đai-ninh rum",
+    "image": "topics/house/images/sentence-table-dining.webp",
+    "imagePrompt": "AI Prompt: A dining table with chairs in dining room, set for meal, photorealistic, 4k"
+  },
+  {
+    "english": "I sleep in my bed at night.",
+    "vietnamese": "Tôi ngủ trên giường vào ban đêm.",
+    "pronunciation": "Ai xlíp in mai béd ạt nai-t",
+    "image": "topics/house/images/sentence-sleep-bed.webp",
+    "imagePrompt": "AI Prompt: A person sleeping peacefully in bed at night, comfortable bedroom, photorealistic, 4k"
+  },
+  {
+    "english": "My clothes are in the wardrobe.",
+    "vietnamese": "Quần áo của tôi ở trong tủ.",
+    "pronunciation": "Mai clô-z o-ò in thờ wó-rôp",
+    "image": "topics/house/images/sentence-clothes-wardrobe.webp",
+    "imagePrompt": "AI Prompt: An open wardrobe showing neatly organized clothes, photorealistic, 4k"
+  },
+  {
+    "english": "I study at my desk.",
+    "vietnamese": "Tôi học bài ở bàn làm việc.",
+    "pronunciation": "Ai xtớ-đi ạt mai đéc-k",
+    "image": "topics/house/images/sentence-study-desk.webp",
+    "imagePrompt": "AI Prompt: A student studying at desk with books and laptop, focused, photorealistic, 4k"
+  },
+  {
+    "english": "Turn on the lamp, please.",
+    "vietnamese": "Làm ơn bật đèn lên.",
+    "pronunciation": "Tớn on thờ làm-p pli-z",
+    "image": "topics/house/images/sentence-turn-lamp.webp",
+    "imagePrompt": "AI Prompt: A hand turning on a table lamp, light illuminating, photorealistic, 4k"
+  },
+  {
+    "english": "We watch TV in the living room.",
+    "vietnamese": "Chúng tôi xem ti vi ở phòng khách.",
+    "pronunciation": "Wi wóch TV in thờ lí-vinh rum",
+    "image": "topics/house/images/sentence-watch-tv.webp",
+    "imagePrompt": "AI Prompt: Family watching television together in living room, cozy atmosphere, photorealistic, 4k"
+  },
+  {
+    "english": "The food is in the refrigerator.",
+    "vietnamese": "Đồ ăn ở trong tủ lạnh.",
+    "pronunciation": "Thờ fúd ít in thờ ri-frí-giơ-rây-tơ",
+    "image": "topics/house/images/sentence-food-fridge.webp",
+    "imagePrompt": "AI Prompt: An open refrigerator full of fresh food and drinks, organized shelves, photorealistic, 4k"
+  },
+  {
+    "english": "I wash my clothes in the washing machine.",
+    "vietnamese": "Tôi giặt quần áo bằng máy giặt.",
+    "pronunciation": "Ai wósh mai clô-z in thờ wó-shinh mơ-shín",
+    "image": "topics/house/images/sentence-washing-machine.webp",
+    "imagePrompt": "AI Prompt: A person loading clothes into washing machine, laundry room, photorealistic, 4k"
+  },
+  {
+    "english": "The air conditioner keeps the room cool.",
+    "vietnamese": "Máy lạnh giữ cho phòng mát mẻ.",
+    "pronunciation": "Thờ éo kơn-đí-shơn-nơ kíp-s thờ rum kú-ồ",
+    "image": "topics/house/images/sentence-aircon-cool.webp",
+    "imagePrompt": "AI Prompt: An air conditioner running in a cool comfortable room, relief from heat, photorealistic, 4k"
+  },
+  {
+    "english": "I heat food in the microwave.",
+    "vietnamese": "Tôi hâm nóng đồ ăn bằng lò vi sóng.",
+    "pronunciation": "Ai hít fúd in thờ mai-crô-wây-v",
+    "image": "topics/house/images/sentence-microwave-heat.webp",
+    "imagePrompt": "AI Prompt: A person heating food in microwave, kitchen setting, photorealistic, 4k"
+  },
+  {
+    "english": "Mom cooks on the stove.",
+    "vietnamese": "Mẹ nấu ăn trên bếp.",
+    "pronunciation": "Móm cúc-s on thờ xtô-v",
+    "image": "topics/house/images/sentence-cook-stove.webp",
+    "imagePrompt": "AI Prompt: A mother cooking food on gas stove, kitchen scene, photorealistic, 4k"
+  },
+  {
+    "english": "Wash your hands in the sink.",
+    "vietnamese": "Rửa tay ở bồn rửa.",
+    "pronunciation": "Wósh dio-ò hàn-z in thờ xinh-k",
+    "image": "topics/house/images/sentence-wash-sink.webp",
+    "imagePrompt": "AI Prompt: Hands being washed in a modern sink with running water, photorealistic, 4k"
+  },
+  {
+    "english": "I take a shower every morning.",
+    "vietnamese": "Tôi tắm vòi sen mỗi sáng.",
+    "pronunciation": "Ai têi-k ơ sháo-ơ év-ri mó-ninh",
+    "image": "topics/house/images/sentence-shower-morning.webp",
+    "imagePrompt": "AI Prompt: A person taking refreshing morning shower, water flowing, photorealistic, 4k"
+  },
+  {
+    "english": "Look in the mirror.",
+    "vietnamese": "Nhìn vào gương.",
+    "pronunciation": "Lúc in thờ mí-rơ",
+    "image": "topics/house/images/sentence-look-mirror.webp",
+    "imagePrompt": "AI Prompt: A person looking at themselves in bathroom mirror, reflection, photorealistic, 4k"
+  },
+  {
+    "english": "The carpet is very soft.",
+    "vietnamese": "Tấm thảm rất mềm.",
+    "pronunciation": "Thờ có-pịt ít ve-ri xóp-t",
+    "image": "topics/house/images/sentence-soft-carpet.webp",
+    "imagePrompt": "AI Prompt: A soft comfortable carpet on floor, cozy texture, photorealistic, 4k"
+  },
+  {
+    "english": "I sleep with two pillows.",
+    "vietnamese": "Tôi ngủ với hai cái gối.",
+    "pronunciation": "Ai xlíp with tú pí-lô-s",
+    "image": "topics/house/images/sentence-two-pillows.webp",
+    "imagePrompt": "AI Prompt: Two comfortable pillows on a bed, ready for sleep, photorealistic, 4k"
+  },
+  {
+    "english": "This blanket is warm.",
+    "vietnamese": "Chiếc chăn này ấm áp.",
+    "pronunciation": "Thít-s blằng-kịt ít wóm",
+    "image": "topics/house/images/sentence-warm-blanket.webp",
+    "imagePrompt": "AI Prompt: A cozy warm blanket on bed, inviting and comfortable, photorealistic, 4k"
+  }
+]
